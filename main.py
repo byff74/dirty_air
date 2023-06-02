@@ -16,7 +16,7 @@ def dt1():
 
 
 bot = Bot(
-    token="5563380775:AAGIZRXWrqMLshuRJJ0yAxrlkdjaOvQLX6o",
+    token={Token},
     parse_mode=types.ParseMode.HTML,
 )
 dp = Dispatcher(bot)
